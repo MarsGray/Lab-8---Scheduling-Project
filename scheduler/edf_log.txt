@@ -1,0 +1,6 @@
+Scheduler: edf
+Gantt: P1(1) P2(4) P4(5) P1(7) P3(9) 
+Avg Waiting: 6.5
+Avg Turnaround: 13
+CPU Utilization: 100%
+Throughput: 0.153846 processes/unit time
